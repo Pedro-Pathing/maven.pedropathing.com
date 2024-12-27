@@ -26,11 +26,11 @@
         {
           "name": "pedro-0.0.1-beta1.aar",
           "url": "pedro-0.0.1-beta1.aar",
-          "size": 112898,
-          "sha512": "02966f33fbc6c61a6de869f911ef2300741d9889b52ba293eab035209fb28a768205dee2e346733eb4b17118f085564a148351f764bf03b39c0482255f08a1f0",
-          "sha256": "dbf411f9f48c4be488d78c408672c51fbe80aaf00188526d631bccbafd0f020f",
-          "sha1": "f371ba0db31cdae94d66754d79d1829e67fb00fa",
-          "md5": "d98c84fbc91950dd34c435988bbda58f"
+          "size": 112899,
+          "sha512": "ad8f9d89a72a8b0ce7593cef92c1db21b51f35297e92cb5c05f416368e8597a31a7e91fac2a50b89ad8a19aa126dbe530e1989966ba5230472b23eec2bf86acb",
+          "sha256": "967e648732ada2d22c7c085c78d268a7b86daa1e00c76dc491245ac05ceab62f",
+          "sha1": "c4986d7577d87a2442aa9706bdefff19e3d936d3",
+          "md5": "4b2315811a7020cb6569b44c519048f9"
         }
       ]
     },
@@ -75,11 +75,11 @@
         {
           "name": "pedro-0.0.1-beta1.aar",
           "url": "pedro-0.0.1-beta1.aar",
-          "size": 112898,
-          "sha512": "02966f33fbc6c61a6de869f911ef2300741d9889b52ba293eab035209fb28a768205dee2e346733eb4b17118f085564a148351f764bf03b39c0482255f08a1f0",
-          "sha256": "dbf411f9f48c4be488d78c408672c51fbe80aaf00188526d631bccbafd0f020f",
-          "sha1": "f371ba0db31cdae94d66754d79d1829e67fb00fa",
-          "md5": "d98c84fbc91950dd34c435988bbda58f"
+          "size": 112899,
+          "sha512": "ad8f9d89a72a8b0ce7593cef92c1db21b51f35297e92cb5c05f416368e8597a31a7e91fac2a50b89ad8a19aa126dbe530e1989966ba5230472b23eec2bf86acb",
+          "sha256": "967e648732ada2d22c7c085c78d268a7b86daa1e00c76dc491245ac05ceab62f",
+          "sha1": "c4986d7577d87a2442aa9706bdefff19e3d936d3",
+          "md5": "4b2315811a7020cb6569b44c519048f9"
         }
       ]
     }
