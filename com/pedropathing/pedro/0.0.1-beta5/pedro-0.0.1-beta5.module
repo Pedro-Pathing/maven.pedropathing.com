@@ -1,0 +1,87 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.pedropathing",
+    "module": "pedro",
+    "version": "0.0.1-beta5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.9"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "pedro-0.0.1-beta5.aar",
+          "url": "pedro-0.0.1-beta5.aar",
+          "size": 84748,
+          "sha512": "c33867d067a9399afbee23910760c13e80ae3293d0e130e2b1493206f6995e6b98e55da94a1fea0615173b5302c284aae512511e707397628aef2aa2c0a5a6d1",
+          "sha256": "3cd997e88512f1870b1c70561c0f9ff8fa77dbc7c6d0787980fb3cd6d5c947ab",
+          "sha1": "3c69adffb4f8485cf127a1e2bd949676652ab3c3",
+          "md5": "aff99c0c997eefeae6288142b2816b3e"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.acmerobotics.dashboard",
+          "module": "dashboard",
+          "version": {
+            "requires": "0.4.16"
+          },
+          "excludes": [
+            {
+              "group": "org.firstinspires.ftc",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-math3",
+          "version": {
+            "requires": "3.6.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.9.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "pedro-0.0.1-beta5.aar",
+          "url": "pedro-0.0.1-beta5.aar",
+          "size": 84748,
+          "sha512": "c33867d067a9399afbee23910760c13e80ae3293d0e130e2b1493206f6995e6b98e55da94a1fea0615173b5302c284aae512511e707397628aef2aa2c0a5a6d1",
+          "sha256": "3cd997e88512f1870b1c70561c0f9ff8fa77dbc7c6d0787980fb3cd6d5c947ab",
+          "sha1": "3c69adffb4f8485cf127a1e2bd949676652ab3c3",
+          "md5": "aff99c0c997eefeae6288142b2816b3e"
+        }
+      ]
+    }
+  ]
+}
