@@ -26,11 +26,11 @@
         {
           "name": "pedro-1.0.0.aar",
           "url": "pedro-1.0.0.aar",
-          "size": 86384,
-          "sha512": "7cda584b970fcb295f8f10de72b9799dc1d9e1065b6d4e06866b530119841adeca3697fbfb667b6046bc0989785cbe3968fa9e3e00cb3d4824472002ba1954d8",
-          "sha256": "72d044a7a196da7ac67c2b4a4f33022e31d47836acfcf7cb0a6e82c2adb6ab6d",
-          "sha1": "054f92397392c0ba3e84ca5ca89c165c77d44c3d",
-          "md5": "fbee55df8986030f37e4bedf5426c06f"
+          "size": 86402,
+          "sha512": "cb8b620dae55b70e1c3691b0ebb7a6e922f2e6c027d8f0304e74eeedf255764a061ab1a3ac1e1f0a15d485036933d203e2c9e6c19597b410d7b192ddf0c5bdbb",
+          "sha256": "2caeec63c18f3dab39b31ebfc2ad50ead10774f5c5e9c281c72e00d53cd16737",
+          "sha1": "3fe1f58501347a6be9c94dac39ae8cce0e80fc4a",
+          "md5": "a03a41026ff0fd27d51086b363226004"
         }
       ]
     },
@@ -75,11 +75,11 @@
         {
           "name": "pedro-1.0.0.aar",
           "url": "pedro-1.0.0.aar",
-          "size": 86384,
-          "sha512": "7cda584b970fcb295f8f10de72b9799dc1d9e1065b6d4e06866b530119841adeca3697fbfb667b6046bc0989785cbe3968fa9e3e00cb3d4824472002ba1954d8",
-          "sha256": "72d044a7a196da7ac67c2b4a4f33022e31d47836acfcf7cb0a6e82c2adb6ab6d",
-          "sha1": "054f92397392c0ba3e84ca5ca89c165c77d44c3d",
-          "md5": "fbee55df8986030f37e4bedf5426c06f"
+          "size": 86402,
+          "sha512": "cb8b620dae55b70e1c3691b0ebb7a6e922f2e6c027d8f0304e74eeedf255764a061ab1a3ac1e1f0a15d485036933d203e2c9e6c19597b410d7b192ddf0c5bdbb",
+          "sha256": "2caeec63c18f3dab39b31ebfc2ad50ead10774f5c5e9c281c72e00d53cd16737",
+          "sha1": "3fe1f58501347a6be9c94dac39ae8cce0e80fc4a",
+          "md5": "a03a41026ff0fd27d51086b363226004"
         }
       ]
     }
