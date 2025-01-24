@@ -1,0 +1,87 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.pedropathing",
+    "module": "ftclib",
+    "version": "1.0.7-beta6",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.9"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "ftclib-1.0.7-beta6.aar",
+          "url": "ftclib-1.0.7-beta6.aar",
+          "size": 4281,
+          "sha512": "e2be6729038b0976c905fd71b7bdc83005b7072a07ffd3fdc85f26c6d318859adab4bec7c8a2e8c30cb844eed4232eec406c6e3368002ae971062a3b98f2b5df",
+          "sha256": "c1ee883e82d687e805b1544d1158e9adfb812561116d3b3b701687488c890a27",
+          "sha1": "0cdaff37ad49aecc8476dbe06aad42eff77a45c0",
+          "md5": "773d66bae94e793e7c56a8bbac86fb41"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.acmerobotics.dashboard",
+          "module": "dashboard",
+          "version": {
+            "requires": "0.4.16"
+          },
+          "excludes": [
+            {
+              "group": "org.firstinspires.ftc",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-math3",
+          "version": {
+            "requires": "3.6.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.9.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ftclib-1.0.7-beta6.aar",
+          "url": "ftclib-1.0.7-beta6.aar",
+          "size": 4281,
+          "sha512": "e2be6729038b0976c905fd71b7bdc83005b7072a07ffd3fdc85f26c6d318859adab4bec7c8a2e8c30cb844eed4232eec406c6e3368002ae971062a3b98f2b5df",
+          "sha256": "c1ee883e82d687e805b1544d1158e9adfb812561116d3b3b701687488c890a27",
+          "sha1": "0cdaff37ad49aecc8476dbe06aad42eff77a45c0",
+          "md5": "773d66bae94e793e7c56a8bbac86fb41"
+        }
+      ]
+    }
+  ]
+}
