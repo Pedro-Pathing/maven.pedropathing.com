@@ -1,0 +1,87 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.pedropathing",
+    "module": "pedro",
+    "version": "1.0.7",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.9"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "pedro-1.0.7.aar",
+          "url": "pedro-1.0.7.aar",
+          "size": 88277,
+          "sha512": "6c7753ebed4210fa9fad19dcc625698cbfab0246815dc7d3a7f9273f464cb85595246f2ffa244dc255160ce5953411088ecc622ec2f22e114f708e7a66ef056a",
+          "sha256": "892cd1553ba9340fe6ce130dfeeff459e9276674a8bf085f2c8ca77a22664a54",
+          "sha1": "66a7d3dd0abfcd8699cca26450a762ae280a3506",
+          "md5": "26285031d95ea74c24ce962866dae870"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.acmerobotics.dashboard",
+          "module": "dashboard",
+          "version": {
+            "requires": "0.4.16"
+          },
+          "excludes": [
+            {
+              "group": "org.firstinspires.ftc",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-math3",
+          "version": {
+            "requires": "3.6.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.9.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "pedro-1.0.7.aar",
+          "url": "pedro-1.0.7.aar",
+          "size": 88277,
+          "sha512": "6c7753ebed4210fa9fad19dcc625698cbfab0246815dc7d3a7f9273f464cb85595246f2ffa244dc255160ce5953411088ecc622ec2f22e114f708e7a66ef056a",
+          "sha256": "892cd1553ba9340fe6ce130dfeeff459e9276674a8bf085f2c8ca77a22664a54",
+          "sha1": "66a7d3dd0abfcd8699cca26450a762ae280a3506",
+          "md5": "26285031d95ea74c24ce962866dae870"
+        }
+      ]
+    }
+  ]
+}
