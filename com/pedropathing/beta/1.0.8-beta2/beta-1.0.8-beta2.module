@@ -1,0 +1,94 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.pedropathing",
+    "module": "beta",
+    "version": "1.0.8-beta2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.9"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "beta-1.0.8-beta2.aar",
+          "url": "beta-1.0.8-beta2.aar",
+          "size": 90313,
+          "sha512": "879d3175bc8af8b30eb83cd3287c98dc3919c8be9b4dff930e75a56ba9959e07265791bf3195cf0119388df740c9248655710e04557d16e8e084a80f42e35dec",
+          "sha256": "499b570699bfec1ba67f8033cdf11532f5706e4074a29dd06ac62b4a2be1c8b7",
+          "sha1": "1488a7132f26a91be8ce700ebe12be4b7dd6d413",
+          "md5": "ff513ac0afd5e5bfe00b796f260ed4a7"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "junit",
+          "module": "junit",
+          "version": {
+            "requires": "4.12"
+          }
+        },
+        {
+          "group": "com.acmerobotics.dashboard",
+          "module": "dashboard",
+          "version": {
+            "requires": "0.4.16"
+          },
+          "excludes": [
+            {
+              "group": "org.firstinspires.ftc",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-math3",
+          "version": {
+            "requires": "3.6.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.9.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "beta-1.0.8-beta2.aar",
+          "url": "beta-1.0.8-beta2.aar",
+          "size": 90313,
+          "sha512": "879d3175bc8af8b30eb83cd3287c98dc3919c8be9b4dff930e75a56ba9959e07265791bf3195cf0119388df740c9248655710e04557d16e8e084a80f42e35dec",
+          "sha256": "499b570699bfec1ba67f8033cdf11532f5706e4074a29dd06ac62b4a2be1c8b7",
+          "sha1": "1488a7132f26a91be8ce700ebe12be4b7dd6d413",
+          "md5": "ff513ac0afd5e5bfe00b796f260ed4a7"
+        }
+      ]
+    }
+  ]
+}
