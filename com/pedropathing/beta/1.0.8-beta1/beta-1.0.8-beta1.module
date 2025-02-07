@@ -26,11 +26,11 @@
         {
           "name": "beta-1.0.8-beta1.aar",
           "url": "beta-1.0.8-beta1.aar",
-          "size": 89520,
-          "sha512": "44056297d3c8b83c7fdd2ab2523a3608a429151365cd6b017e64c8565bc3cd824285621a47df703d2e0ebb860d91dd7cd229c9bb5f2fc3f287eea8d026ba523b",
-          "sha256": "d60aef7530cffa608f0fc5d5754207c08da7c7ff718e86a9685c1ca932d3317b",
-          "sha1": "b062adb23e19c4198250527feb617eb478917058",
-          "md5": "7173bd1864f317da6fdd98cf98dd7092"
+          "size": 90313,
+          "sha512": "879d3175bc8af8b30eb83cd3287c98dc3919c8be9b4dff930e75a56ba9959e07265791bf3195cf0119388df740c9248655710e04557d16e8e084a80f42e35dec",
+          "sha256": "499b570699bfec1ba67f8033cdf11532f5706e4074a29dd06ac62b4a2be1c8b7",
+          "sha1": "1488a7132f26a91be8ce700ebe12be4b7dd6d413",
+          "md5": "ff513ac0afd5e5bfe00b796f260ed4a7"
         }
       ]
     },
@@ -43,6 +43,13 @@
         "org.gradle.usage": "java-runtime"
       },
       "dependencies": [
+        {
+          "group": "junit",
+          "module": "junit",
+          "version": {
+            "requires": "4.12"
+          }
+        },
         {
           "group": "com.acmerobotics.dashboard",
           "module": "dashboard",
@@ -75,11 +82,11 @@
         {
           "name": "beta-1.0.8-beta1.aar",
           "url": "beta-1.0.8-beta1.aar",
-          "size": 89520,
-          "sha512": "44056297d3c8b83c7fdd2ab2523a3608a429151365cd6b017e64c8565bc3cd824285621a47df703d2e0ebb860d91dd7cd229c9bb5f2fc3f287eea8d026ba523b",
-          "sha256": "d60aef7530cffa608f0fc5d5754207c08da7c7ff718e86a9685c1ca932d3317b",
-          "sha1": "b062adb23e19c4198250527feb617eb478917058",
-          "md5": "7173bd1864f317da6fdd98cf98dd7092"
+          "size": 90313,
+          "sha512": "879d3175bc8af8b30eb83cd3287c98dc3919c8be9b4dff930e75a56ba9959e07265791bf3195cf0119388df740c9248655710e04557d16e8e084a80f42e35dec",
+          "sha256": "499b570699bfec1ba67f8033cdf11532f5706e4074a29dd06ac62b4a2be1c8b7",
+          "sha1": "1488a7132f26a91be8ce700ebe12be4b7dd6d413",
+          "md5": "ff513ac0afd5e5bfe00b796f260ed4a7"
         }
       ]
     }
