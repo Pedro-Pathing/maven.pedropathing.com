@@ -1,0 +1,87 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.pedropathing",
+    "module": "dev",
+    "version": "1.0.9-beta1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.9"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "dev-1.0.9-beta1.aar",
+          "url": "dev-1.0.9-beta1.aar",
+          "size": 91948,
+          "sha512": "1869721e4588d028d954a1d10bd427990e29979918f344506eea0398f2d5786c3f58449a25fa4a5dedf673764406e9d96a263f07434c505c82ebba41c277e8df",
+          "sha256": "ae2456271d0023258237a1276432b4a8b472fde9386f9b9023f707c745c43fba",
+          "sha1": "348b2a0bfac7d813094d43f222f07015f2e966ec",
+          "md5": "15f72c49e2828b0b896af82908d84aee"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.acmerobotics.dashboard",
+          "module": "dashboard",
+          "version": {
+            "requires": "0.4.16"
+          },
+          "excludes": [
+            {
+              "group": "org.firstinspires.ftc",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-math3",
+          "version": {
+            "requires": "3.6.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.9.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "dev-1.0.9-beta1.aar",
+          "url": "dev-1.0.9-beta1.aar",
+          "size": 91948,
+          "sha512": "1869721e4588d028d954a1d10bd427990e29979918f344506eea0398f2d5786c3f58449a25fa4a5dedf673764406e9d96a263f07434c505c82ebba41c277e8df",
+          "sha256": "ae2456271d0023258237a1276432b4a8b472fde9386f9b9023f707c745c43fba",
+          "sha1": "348b2a0bfac7d813094d43f222f07015f2e966ec",
+          "md5": "15f72c49e2828b0b896af82908d84aee"
+        }
+      ]
+    }
+  ]
+}
