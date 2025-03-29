@@ -3,8 +3,8 @@
   <groupId>com.pedropathing</groupId>
   <artifactId>dev</artifactId>
   <versioning>
-    <latest>1.0.9-beta2</latest>
-    <release>1.0.9-beta2</release>
+    <latest>1.1.0-dev1</latest>
+    <release>1.1.0-dev1</release>
     <versions>
       <version>1.0.1</version>
       <version>1.0.2</version>
@@ -16,7 +16,8 @@
       <version>1.0.7-beta2</version>
       <version>1.0.9-beta1</version>
       <version>1.0.9-beta2</version>
+      <version>1.1.0-dev1</version>
     </versions>
-    <lastUpdated>20250222233636</lastUpdated>
+    <lastUpdated>20250329024105</lastUpdated>
   </versioning>
 </metadata>
