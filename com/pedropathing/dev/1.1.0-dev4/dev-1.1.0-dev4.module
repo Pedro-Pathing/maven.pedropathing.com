@@ -1,0 +1,81 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.pedropathing",
+    "module": "dev",
+    "version": "1.1.0-dev4",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.9"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "dev-1.1.0-dev4.aar",
+          "url": "dev-1.1.0-dev4.aar",
+          "size": 106658,
+          "sha512": "e1f34fb8a787ef59d0647e44c7a3a4d9464801fc53a07c7b613f30ec3caa7a4c349b951f687a58b732a30ac657cd1be62553eb77b8a5597554ac68000c293122",
+          "sha256": "1287fa7db46570a70bcc6c74521e10d83ecbfd892ec60c3b8d00797f4d4c15d5",
+          "sha1": "8b9fcac992844bfc8328bb0eed9e3ae9c3f48d81",
+          "md5": "8977b9211dfaf33784c1f6d2aa1eb697"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.annotation",
+          "module": "annotation-jvm",
+          "version": {
+            "requires": "1.9.1"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-math3",
+          "version": {
+            "requires": "3.6.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.9.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "dev-1.1.0-dev4.aar",
+          "url": "dev-1.1.0-dev4.aar",
+          "size": 106658,
+          "sha512": "e1f34fb8a787ef59d0647e44c7a3a4d9464801fc53a07c7b613f30ec3caa7a4c349b951f687a58b732a30ac657cd1be62553eb77b8a5597554ac68000c293122",
+          "sha256": "1287fa7db46570a70bcc6c74521e10d83ecbfd892ec60c3b8d00797f4d4c15d5",
+          "sha1": "8b9fcac992844bfc8328bb0eed9e3ae9c3f48d81",
+          "md5": "8977b9211dfaf33784c1f6d2aa1eb697"
+        }
+      ]
+    }
+  ]
+}
