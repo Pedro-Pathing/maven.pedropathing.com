@@ -26,11 +26,11 @@
         {
           "name": "dev-1.1.0-dev5.aar",
           "url": "dev-1.1.0-dev5.aar",
-          "size": 108023,
-          "sha512": "2a196263ffab53bd31233afe213e0090f3b49e22922b85e743801c6a95b93f19b2e826553d013af351d71359a4a958f7f01c641ad042217f4816acab68325d56",
-          "sha256": "0af8f803cf171b6330cb875aa368a94d50da262ce9c86e3f321ca88531e09c61",
-          "sha1": "e7dfb64c96d8dbd8699390d0064ac47d4d21e89b",
-          "md5": "00cff91f63f5b300e085e866fb743164"
+          "size": 108919,
+          "sha512": "dab9929a1fdba8b2c5703ac31dadbe2a62b4e492ca63f5d78ecd25c01b3a06981e5f999a16419ef934b1803f6cb3ea4a95510f77db5d58c1090d6d48b36860d5",
+          "sha256": "c1f1038140d7f14a7735c00f5baa0067182fa76cb6e2183111bcf25ab67cd362",
+          "sha1": "854b57d1da38aad4d4fbc589d78b1a1bedf98980",
+          "md5": "e9c783c22316d10020500b455747e094"
         }
       ]
     },
@@ -69,11 +69,11 @@
         {
           "name": "dev-1.1.0-dev5.aar",
           "url": "dev-1.1.0-dev5.aar",
-          "size": 108023,
-          "sha512": "2a196263ffab53bd31233afe213e0090f3b49e22922b85e743801c6a95b93f19b2e826553d013af351d71359a4a958f7f01c641ad042217f4816acab68325d56",
-          "sha256": "0af8f803cf171b6330cb875aa368a94d50da262ce9c86e3f321ca88531e09c61",
-          "sha1": "e7dfb64c96d8dbd8699390d0064ac47d4d21e89b",
-          "md5": "00cff91f63f5b300e085e866fb743164"
+          "size": 108919,
+          "sha512": "dab9929a1fdba8b2c5703ac31dadbe2a62b4e492ca63f5d78ecd25c01b3a06981e5f999a16419ef934b1803f6cb3ea4a95510f77db5d58c1090d6d48b36860d5",
+          "sha256": "c1f1038140d7f14a7735c00f5baa0067182fa76cb6e2183111bcf25ab67cd362",
+          "sha1": "854b57d1da38aad4d4fbc589d78b1a1bedf98980",
+          "md5": "e9c783c22316d10020500b455747e094"
         }
       ]
     }
