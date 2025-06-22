@@ -1,0 +1,121 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.pedropathing",
+    "module": "dev",
+    "version": "1.1.0-dev9",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.9"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "dev-1.1.0-dev9.aar",
+          "url": "dev-1.1.0-dev9.aar",
+          "size": 116702,
+          "sha512": "996ab4354741f46ee4d05ec2f9c65b41cd227c566c7fdaaf210000b2167d68da501e36dc539ce54ae34c0b2293c06456e0c4bba400a99bae70b7eed13a45d5e8",
+          "sha256": "6ebf95aebffc1bb7da4428ca16ded155470cd19250db38371abaa8a4d89295cb",
+          "sha1": "3bda57ba26124517aa25c06c42830b930af778f5",
+          "md5": "be1e69f60ec5bd1a2ef790e4fbf4c777"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.annotation",
+          "module": "annotation-jvm",
+          "version": {
+            "requires": "1.9.1"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-math3",
+          "version": {
+            "requires": "3.6.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.9.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "dev-1.1.0-dev9.aar",
+          "url": "dev-1.1.0-dev9.aar",
+          "size": 116702,
+          "sha512": "996ab4354741f46ee4d05ec2f9c65b41cd227c566c7fdaaf210000b2167d68da501e36dc539ce54ae34c0b2293c06456e0c4bba400a99bae70b7eed13a45d5e8",
+          "sha256": "6ebf95aebffc1bb7da4428ca16ded155470cd19250db38371abaa8a4d89295cb",
+          "sha1": "3bda57ba26124517aa25c06c42830b930af778f5",
+          "md5": "be1e69f60ec5bd1a2ef790e4fbf4c777"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "dev-1.1.0-dev9-sources.jar",
+          "url": "dev-1.1.0-dev9-sources.jar",
+          "size": 104211,
+          "sha512": "12ccd1d5f9f44d2f4c5d92c094d263cdcb18a4519679c8bec55a0d6a29985d792f50a69a4f3bf3337723d953b6ff08c107d3061fb2cfb8c506a131f77411df26",
+          "sha256": "dd1a6ff6e30a922180831975a7e930fd87b64ea03e425ac66f175cb707bb84a6",
+          "sha1": "f20ef00ba23a589601a062e8302647e3cfcbc718",
+          "md5": "8e4cb2388ebcb07db0a8d85952b241f0"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "dev-1.1.0-dev9-javadoc.jar",
+          "url": "dev-1.1.0-dev9-javadoc.jar",
+          "size": 651723,
+          "sha512": "328969007b301ffc4ce90577c076b64b9424bedc38a29fa01a0f4bca0fbfe10c8328c8a1c5d26a9d3b2664a87062b540d8c03837fefd7d9cf3316c4bb050bd43",
+          "sha256": "c78b53d0509434a24cf93dfd7d1c8616adbd5b91a8e2074fd1a9f02da8816190",
+          "sha1": "8553e3e5763a5e0adc94e8818b0cca68c14176d3",
+          "md5": "09b87925647a8ae5c1a8c2882c882f2c"
+        }
+      ]
+    }
+  ]
+}
