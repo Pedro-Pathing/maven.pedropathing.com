@@ -1,0 +1,121 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.pedropathing",
+    "module": "dev",
+    "version": "1.1.0-dev15",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.9"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "dev-1.1.0-dev15.aar",
+          "url": "dev-1.1.0-dev15.aar",
+          "size": 118137,
+          "sha512": "bac28b853a28e58fe02365b8bd43690e3330958fa8f4f854a495e9e789beedb2a00204ea9d7cd500226ec7d047ef196b410d007accc2b757018de185c588bdfd",
+          "sha256": "dfd8139e89c19a7813b48d5fc6c6eed1f02b0590d96bd353ba122d3d29e8e73b",
+          "sha1": "9279eb3e830b595b9ad6152babd7e8b624bedbf3",
+          "md5": "69fce4daf7fdc04add5821d3cba346e0"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.annotation",
+          "module": "annotation-jvm",
+          "version": {
+            "requires": "1.9.1"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-math3",
+          "version": {
+            "requires": "3.6.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.9.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "dev-1.1.0-dev15.aar",
+          "url": "dev-1.1.0-dev15.aar",
+          "size": 118137,
+          "sha512": "bac28b853a28e58fe02365b8bd43690e3330958fa8f4f854a495e9e789beedb2a00204ea9d7cd500226ec7d047ef196b410d007accc2b757018de185c588bdfd",
+          "sha256": "dfd8139e89c19a7813b48d5fc6c6eed1f02b0590d96bd353ba122d3d29e8e73b",
+          "sha1": "9279eb3e830b595b9ad6152babd7e8b624bedbf3",
+          "md5": "69fce4daf7fdc04add5821d3cba346e0"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "dev-1.1.0-dev15-sources.jar",
+          "url": "dev-1.1.0-dev15-sources.jar",
+          "size": 104595,
+          "sha512": "78151d90d4791d3a3a8f9ce0df44ecfdc8f6128606bfab2fc96db80b527f26987e4b1ebe29c5df4611b78d3abcbe7c0732c90a251a7575af8e554534d9e903a0",
+          "sha256": "2c8315f1e5db1d6343650f322166274a4602b9beab2b1851a8ec0c51688d49cb",
+          "sha1": "7633b01efd9142cf9fbea9a76f4b597f509679ed",
+          "md5": "3e46be40bd3e813dc7cc5e12a6094e9a"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "dev-1.1.0-dev15-javadoc.jar",
+          "url": "dev-1.1.0-dev15-javadoc.jar",
+          "size": 654965,
+          "sha512": "950a64153076729a2bf474495d306ebd1b0bcacca10dfbe8c9dd8c73b5f43c300763c543ec4f0546290d310e845fc42053c34f71471162f1c3263b26ee2f0525",
+          "sha256": "6021d9150e6b1cb6fabc070dea74d32f4aeed53c79d093ace0531a4b4e38181f",
+          "sha1": "a22c0a05d524c3750261285d0615a0772f5e0fce",
+          "md5": "5edd9fa236ae713e99e62072c1473e8c"
+        }
+      ]
+    }
+  ]
+}
