@@ -3,8 +3,8 @@
   <groupId>com.pedropathing</groupId>
   <artifactId>dev</artifactId>
   <versioning>
-    <latest>1.1.0-dev16</latest>
-    <release>1.1.0-dev16</release>
+    <latest>1.0.8-driver</latest>
+    <release>1.0.8-driver</release>
     <versions>
       <version>1.0.1</version>
       <version>1.0.2</version>
@@ -28,7 +28,8 @@
       <version>1.1.0-dev14</version>
       <version>1.1.0-dev15</version>
       <version>1.1.0-dev16</version>
+      <version>1.0.8-driver</version>
     </versions>
-    <lastUpdated>20250626074139</lastUpdated>
+    <lastUpdated>20250627000410</lastUpdated>
   </versioning>
 </metadata>

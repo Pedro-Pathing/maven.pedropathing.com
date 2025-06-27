@@ -1,0 +1,87 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.pedropathing",
+    "module": "dev",
+    "version": "1.0.8-driver",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.9"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "dev-1.0.8-driver.aar",
+          "url": "dev-1.0.8-driver.aar",
+          "size": 92321,
+          "sha512": "e211dbafbb7884a9c1a7750462038183d4a434ed03f8128d3e0ea1acb5b430d1daabc1957a301ae8d7cd4dcd12f26783a007a416e56b272cfb3dd0525dd11cd5",
+          "sha256": "24fd8076f4054e3fb1300b2f8950e92266def72d320911f625f1d8e39c2403b3",
+          "sha1": "87ced9479b6893e52bee42f217fb28e168461ffd",
+          "md5": "dc43333921fedaab2f5790a8005ee27b"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.acmerobotics.dashboard",
+          "module": "dashboard",
+          "version": {
+            "requires": "0.4.16"
+          },
+          "excludes": [
+            {
+              "group": "org.firstinspires.ftc",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-math3",
+          "version": {
+            "requires": "3.6.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.9.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "dev-1.0.8-driver.aar",
+          "url": "dev-1.0.8-driver.aar",
+          "size": 92321,
+          "sha512": "e211dbafbb7884a9c1a7750462038183d4a434ed03f8128d3e0ea1acb5b430d1daabc1957a301ae8d7cd4dcd12f26783a007a416e56b272cfb3dd0525dd11cd5",
+          "sha256": "24fd8076f4054e3fb1300b2f8950e92266def72d320911f625f1d8e39c2403b3",
+          "sha1": "87ced9479b6893e52bee42f217fb28e168461ffd",
+          "md5": "dc43333921fedaab2f5790a8005ee27b"
+        }
+      ]
+    }
+  ]
+}
