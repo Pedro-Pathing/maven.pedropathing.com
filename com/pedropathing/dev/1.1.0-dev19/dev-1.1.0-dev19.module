@@ -1,0 +1,121 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.pedropathing",
+    "module": "dev",
+    "version": "1.1.0-dev19",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.9"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "dev-1.1.0-dev19.aar",
+          "url": "dev-1.1.0-dev19.aar",
+          "size": 109238,
+          "sha512": "dddd8c87456e3da76a38340ae7c70cd39be975e38b0afecf83c30e9344651861584c75c23aba0578fb4563a18f01b04e5a53bdcb5206449c0ff808d9cdbd715f",
+          "sha256": "b5769f20f8344a33c3627d69d1bf54b467e58dc40c6b2f40c662d236c5c47763",
+          "sha1": "c04a684556d67e0303419144edd072814d00c257",
+          "md5": "995b644d7118afc47e59cc18ed7d6f5e"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.annotation",
+          "module": "annotation-jvm",
+          "version": {
+            "requires": "1.9.1"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-math3",
+          "version": {
+            "requires": "3.6.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.9.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "dev-1.1.0-dev19.aar",
+          "url": "dev-1.1.0-dev19.aar",
+          "size": 109238,
+          "sha512": "dddd8c87456e3da76a38340ae7c70cd39be975e38b0afecf83c30e9344651861584c75c23aba0578fb4563a18f01b04e5a53bdcb5206449c0ff808d9cdbd715f",
+          "sha256": "b5769f20f8344a33c3627d69d1bf54b467e58dc40c6b2f40c662d236c5c47763",
+          "sha1": "c04a684556d67e0303419144edd072814d00c257",
+          "md5": "995b644d7118afc47e59cc18ed7d6f5e"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "dev-1.1.0-dev19-sources.jar",
+          "url": "dev-1.1.0-dev19-sources.jar",
+          "size": 100067,
+          "sha512": "609f3744113c8007cd1bb89207b4a44673ffcaa56007f5d99b210a14c119c5c2523c612d966d5aded76fbfd49fd8a1c5662775f5debc4151fb98d81ee748daf6",
+          "sha256": "8dd19f3e54a61c5774ee1f768313862a96bff2ab725c4fda5c9d5f25c1fd8c6b",
+          "sha1": "00b9e69b6d975d8fa09ae2fa5ffdba95267ebc98",
+          "md5": "9ddf0257d5a5012a5351402244fc06a8"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "dev-1.1.0-dev19-javadoc.jar",
+          "url": "dev-1.1.0-dev19-javadoc.jar",
+          "size": 638893,
+          "sha512": "bccf5d13604730fd0d8255bb3530b3a8d2e15d108a5550baca824450cf5a436875593a8cdb8585a80bf02b2302935bf2c3b59f883e38abba434800f2b8c16523",
+          "sha256": "10723b5e031f0bf6dc17dad6f926409cb9bac864b372c5738ebdcdd24b26a7d4",
+          "sha1": "dfa972ee93380a425b00d4c20d3d916319271c30",
+          "md5": "9ea2e281c124bc379d93c4dfb67f6758"
+        }
+      ]
+    }
+  ]
+}
