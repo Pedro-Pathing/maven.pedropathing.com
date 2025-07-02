@@ -1,0 +1,121 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.pedropathing",
+    "module": "dev",
+    "version": "1.1.0-dev22",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.9"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "dev-1.1.0-dev22.aar",
+          "url": "dev-1.1.0-dev22.aar",
+          "size": 114418,
+          "sha512": "b323509bfae08b0fe0378ed53fa9b09a3394fb263ad2ab1b18393fd8ce56415501195351a15d15cc0a2274c3eb4746656eb9c890ed6cbfe206f1479c6663477f",
+          "sha256": "7134815a06b193aa24a75f6bfb84348d182b04ef95eac9cbb902dc2111e1e434",
+          "sha1": "421771d768e2f59a7c84b6eb1ca8e9f84dc75565",
+          "md5": "a828f9f45f8a5595b00741a9ceb3f8d5"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.annotation",
+          "module": "annotation-jvm",
+          "version": {
+            "requires": "1.9.1"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-math3",
+          "version": {
+            "requires": "3.6.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.9.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "dev-1.1.0-dev22.aar",
+          "url": "dev-1.1.0-dev22.aar",
+          "size": 114418,
+          "sha512": "b323509bfae08b0fe0378ed53fa9b09a3394fb263ad2ab1b18393fd8ce56415501195351a15d15cc0a2274c3eb4746656eb9c890ed6cbfe206f1479c6663477f",
+          "sha256": "7134815a06b193aa24a75f6bfb84348d182b04ef95eac9cbb902dc2111e1e434",
+          "sha1": "421771d768e2f59a7c84b6eb1ca8e9f84dc75565",
+          "md5": "a828f9f45f8a5595b00741a9ceb3f8d5"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "dev-1.1.0-dev22-sources.jar",
+          "url": "dev-1.1.0-dev22-sources.jar",
+          "size": 104144,
+          "sha512": "6d65d17bd39272ea8b837b8fe9fd103f9cca8cf8088bea44f7185c57777a130d7bc3c6587aa78e5779ccb0a403857a9018b2fe0ef1dd1e60ff63f40cb630f56c",
+          "sha256": "b8e79cc798d2518a9e28ff5947e45de6d6f03e2f67c191226e45c106284385ae",
+          "sha1": "13a1ad02b491777b5cf148bf9be3fc778dd474ee",
+          "md5": "a86c9d89a82b1d4e10f1c3afd095101d"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "dev-1.1.0-dev22-javadoc.jar",
+          "url": "dev-1.1.0-dev22-javadoc.jar",
+          "size": 653870,
+          "sha512": "5532da0139c799b1302db43aca2a47f1ae2f3427cc9c63d0a1a3f1cc69c1c008f812cd36b339c3f0168f409de470544327acb8c93ccc8144bd7c0c738e096024",
+          "sha256": "ed9270c864c1e1b58b0269956686cb12169469ad718ea1174ce0b15b236a04e0",
+          "sha1": "73583b938dbd2272ed51330a424dc6c192ff0bb1",
+          "md5": "77cf761b4d768c23d1fe8875ff82d26d"
+        }
+      ]
+    }
+  ]
+}
