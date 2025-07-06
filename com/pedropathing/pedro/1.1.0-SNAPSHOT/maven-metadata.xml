@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.pedropathing</groupId>
+  <artifactId>pedro</artifactId>
+  <versioning>
+    <lastUpdated>20250706043543</lastUpdated>
+    <snapshot>
+      <timestamp>20250706.043543</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>1.1.0-20250706.043543-2</value>
+        <updated>20250706043543</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.1.0-20250706.043543-2</value>
+        <updated>20250706043543</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.1.0-20250706.043543-2</value>
+        <updated>20250706043543</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>1.1.0-SNAPSHOT</version>
+</metadata>
