@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="1.1.0-dev14">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/com/pedropathing/dev/1.1.0-dev14/dev-1.1.0-dev14-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/com/pedropathing/dev/1.1.0-dev14/dev-1.1.0-dev14-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

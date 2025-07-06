@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="1.1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/com/pedropathing/dev/1.1.0-SNAPSHOT/dev-1.1.0-20250703.220918-1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/com/pedropathing/dev/1.1.0-SNAPSHOT/dev-1.1.0-20250703.220918-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/com/pedropathing/dev/1.1.0-SNAPSHOT/dev-1.1.0-20250703.230508-2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/com/pedropathing/dev/1.1.0-SNAPSHOT/dev-1.1.0-20250703.230508-2-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

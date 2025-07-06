@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="0.0.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/com/pedropathing/telemetry/0.0.2/telemetry-0.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/com/pedropathing/telemetry/0.0.2/telemetry-0.0.2-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
