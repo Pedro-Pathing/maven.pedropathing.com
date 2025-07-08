@@ -1,0 +1,116 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.pedropathing",
+    "module": "ftc",
+    "version": "1.1.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.pedropathing",
+          "module": "pedro",
+          "version": {
+            "requires": "1.1.0-SNAPSHOT"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ftc-1.1.0-SNAPSHOT.aar",
+          "url": "ftc-1.1.0-SNAPSHOT.aar",
+          "size": 36987,
+          "sha512": "d20206a684fa1b416db5ed74dfe050985fcfa24f6fa388dec9eb4fe7dc8632726f174b88110083b0e7a250ebc5ee9d157caa01f06d2ebbe4c0b43220c9b24032",
+          "sha256": "6b45d658deb5299a806142c694ae0e878098f418fc55c3e1de66cf37332263b7",
+          "sha1": "92181b79c931c32f3a8c279b3673142648dc940a",
+          "md5": "d78ef4b8197c8ca34e5bdd44dfeebc6c"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.pedropathing",
+          "module": "pedro",
+          "version": {
+            "requires": "1.1.0-SNAPSHOT"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ftc-1.1.0-SNAPSHOT.aar",
+          "url": "ftc-1.1.0-SNAPSHOT.aar",
+          "size": 36987,
+          "sha512": "d20206a684fa1b416db5ed74dfe050985fcfa24f6fa388dec9eb4fe7dc8632726f174b88110083b0e7a250ebc5ee9d157caa01f06d2ebbe4c0b43220c9b24032",
+          "sha256": "6b45d658deb5299a806142c694ae0e878098f418fc55c3e1de66cf37332263b7",
+          "sha1": "92181b79c931c32f3a8c279b3673142648dc940a",
+          "md5": "d78ef4b8197c8ca34e5bdd44dfeebc6c"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "ftc-1.1.0-SNAPSHOT-sources.jar",
+          "url": "ftc-1.1.0-SNAPSHOT-sources.jar",
+          "size": 32764,
+          "sha512": "701a7d91c49756fbf4b8be92fad068b5d8cf597519c202417dbc2fb3a4e93381ce8da757bb7db4db7fddc619ebb3eb6fc9211e554fea6aa251a5c011fee96631",
+          "sha256": "38e373853619d855d0460f06b0f27a45157c3aadfc0e3bfbb6d4f883a29ef8fa",
+          "sha1": "a5f80d0f7ef7f6fa1f87b489e259f359989afb5e",
+          "md5": "6485a9693a2b8a03ff2c6794064620f2"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "ftc-1.1.0-SNAPSHOT-javadoc.jar",
+          "url": "ftc-1.1.0-SNAPSHOT-javadoc.jar",
+          "size": 394616,
+          "sha512": "cce1775d3ee59c347d8679e7617bfee8e1a3b6653d31adf3675727bf1fc11bb5988f2757161b0a27b7a253bb5eadad992e4444832062f370c81a0932b475622a",
+          "sha256": "1f6eda87b3fb375330417aaef4f3c4fdc086bb47c5457c57f2386854ee70df77",
+          "sha1": "f5b2fca9a834ec3d0f67947bbc6ba0cc0c5d652f",
+          "md5": "701b4b5b74868acc2551664bbddc6d0f"
+        }
+      ]
+    }
+  ]
+}
