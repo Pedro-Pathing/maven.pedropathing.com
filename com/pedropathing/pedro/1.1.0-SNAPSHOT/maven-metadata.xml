@@ -3,26 +3,26 @@
   <groupId>com.pedropathing</groupId>
   <artifactId>pedro</artifactId>
   <versioning>
-    <lastUpdated>20250708024722</lastUpdated>
+    <lastUpdated>20250727205104</lastUpdated>
     <snapshot>
-      <timestamp>20250708.024722</timestamp>
-      <buildNumber>4</buildNumber>
+      <timestamp>20250727.205104</timestamp>
+      <buildNumber>5</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <extension>module</extension>
-        <value>1.1.0-20250708.024722-4</value>
-        <updated>20250708024722</updated>
+        <extension>jar</extension>
+        <value>1.1.0-20250727.205104-5</value>
+        <updated>20250727205104</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <extension>jar</extension>
-        <value>1.1.0-20250708.024722-4</value>
-        <updated>20250708024722</updated>
+        <extension>module</extension>
+        <value>1.1.0-20250727.205104-5</value>
+        <updated>20250727205104</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.1.0-20250708.024722-4</value>
-        <updated>20250708024722</updated>
+        <value>1.1.0-20250727.205104-5</value>
+        <updated>20250727205104</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
