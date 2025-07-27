@@ -3,38 +3,38 @@
   <groupId>com.pedropathing</groupId>
   <artifactId>ftc</artifactId>
   <versioning>
-    <lastUpdated>20250727205104</lastUpdated>
+    <lastUpdated>20250727205505</lastUpdated>
     <snapshot>
-      <timestamp>20250727.205104</timestamp>
-      <buildNumber>5</buildNumber>
+      <timestamp>20250727.205505</timestamp>
+      <buildNumber>6</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
+        <extension>module</extension>
+        <value>1.1.0-20250727.205505-6</value>
+        <updated>20250727205505</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.1.0-20250727.205505-6</value>
+        <updated>20250727205505</updated>
+      </snapshotVersion>
+      <snapshotVersion>
         <extension>aar</extension>
-        <value>1.1.0-20250727.205104-5</value>
-        <updated>20250727205104</updated>
+        <value>1.1.0-20250727.205505-6</value>
+        <updated>20250727205505</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.1.0-20250727.205104-5</value>
-        <updated>20250727205104</updated>
+        <value>1.1.0-20250727.205505-6</value>
+        <updated>20250727205505</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>1.1.0-20250727.205104-5</value>
-        <updated>20250727205104</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>pom</extension>
-        <value>1.1.0-20250727.205104-5</value>
-        <updated>20250727205104</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>module</extension>
-        <value>1.1.0-20250727.205104-5</value>
-        <updated>20250727205104</updated>
+        <value>1.1.0-20250727.205505-6</value>
+        <updated>20250727205505</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
