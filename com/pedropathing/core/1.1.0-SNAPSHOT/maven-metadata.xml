@@ -3,26 +3,26 @@
   <groupId>com.pedropathing</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <lastUpdated>20250803034221</lastUpdated>
+    <lastUpdated>20250804045314</lastUpdated>
     <snapshot>
-      <timestamp>20250803.034221</timestamp>
-      <buildNumber>6</buildNumber>
+      <timestamp>20250804.045314</timestamp>
+      <buildNumber>8</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.1.0-20250804.045314-8</value>
+        <updated>20250804045314</updated>
+      </snapshotVersion>
+      <snapshotVersion>
         <extension>module</extension>
-        <value>1.1.0-20250803.034221-6</value>
-        <updated>20250803034221</updated>
+        <value>1.1.0-20250804.045314-8</value>
+        <updated>20250804045314</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.1.0-20250803.034221-6</value>
-        <updated>20250803034221</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>1.1.0-20250803.034221-6</value>
-        <updated>20250803034221</updated>
+        <value>1.1.0-20250804.045314-8</value>
+        <updated>20250804045314</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
