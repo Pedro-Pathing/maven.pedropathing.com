@@ -3,7 +3,7 @@
   <groupId>com.pedropathing</groupId>
   <artifactId>pedro</artifactId>
   <versioning>
-    <latest>1.1.0-SNAPSHOT</latest>
+    <latest>1.0.9</latest>
     <release>1.0.9</release>
     <versions>
       <version>0.0.0</version>
@@ -31,8 +31,7 @@
       <version>1.0.7</version>
       <version>1.0.8</version>
       <version>1.0.9</version>
-      <version>1.1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20250715115636</lastUpdated>
+    <lastUpdated>20250731205114</lastUpdated>
   </versioning>
 </metadata>
