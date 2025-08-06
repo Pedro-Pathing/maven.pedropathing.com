@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.pedropathing</groupId>
-  <artifactId>ftc</artifactId>
+  <artifactId>core</artifactId>
   <versioning>
     <latest>1.1.0-SNAPSHOT</latest>
     <versions>

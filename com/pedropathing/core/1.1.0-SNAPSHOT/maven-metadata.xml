@@ -1,39 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>com.pedropathing</groupId>
-  <artifactId>ftc</artifactId>
+  <artifactId>core</artifactId>
   <versioning>
     <lastUpdated>20250806174847</lastUpdated>
     <snapshot>
       <timestamp>20250806.174847</timestamp>
-      <buildNumber>6</buildNumber>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.1.0-20250806.174847-6</value>
+        <value>1.1.0-20250806.174847-2</value>
         <updated>20250806174847</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.1.0-20250806.174847-6</value>
-        <updated>20250806174847</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>javadoc</classifier>
-        <extension>jar</extension>
-        <value>1.1.0-20250806.174847-6</value>
-        <updated>20250806174847</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>aar</extension>
-        <value>1.1.0-20250806.174847-6</value>
+        <value>1.1.0-20250806.174847-2</value>
         <updated>20250806174847</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>module</extension>
-        <value>1.1.0-20250806.174847-6</value>
+        <value>1.1.0-20250806.174847-2</value>
         <updated>20250806174847</updated>
       </snapshotVersion>
     </snapshotVersions>
