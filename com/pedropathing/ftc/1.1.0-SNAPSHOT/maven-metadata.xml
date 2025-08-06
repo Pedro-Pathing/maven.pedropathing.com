@@ -3,38 +3,38 @@
   <groupId>com.pedropathing</groupId>
   <artifactId>ftc</artifactId>
   <versioning>
-    <lastUpdated>20250806192724</lastUpdated>
+    <lastUpdated>20250806203033</lastUpdated>
     <snapshot>
-      <timestamp>20250806.192724</timestamp>
-      <buildNumber>7</buildNumber>
+      <timestamp>20250806.203033</timestamp>
+      <buildNumber>8</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <extension>module</extension>
-        <value>1.1.0-20250806.192724-7</value>
-        <updated>20250806192724</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>sources</classifier>
-        <extension>jar</extension>
-        <value>1.1.0-20250806.192724-7</value>
-        <updated>20250806192724</updated>
-      </snapshotVersion>
-      <snapshotVersion>
         <extension>aar</extension>
-        <value>1.1.0-20250806.192724-7</value>
-        <updated>20250806192724</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>pom</extension>
-        <value>1.1.0-20250806.192724-7</value>
-        <updated>20250806192724</updated>
+        <value>1.1.0-20250806.203033-8</value>
+        <updated>20250806203033</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>1.1.0-20250806.192724-7</value>
-        <updated>20250806192724</updated>
+        <value>1.1.0-20250806.203033-8</value>
+        <updated>20250806203033</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>1.1.0-20250806.203033-8</value>
+        <updated>20250806203033</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.1.0-20250806.203033-8</value>
+        <updated>20250806203033</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.1.0-20250806.203033-8</value>
+        <updated>20250806203033</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
