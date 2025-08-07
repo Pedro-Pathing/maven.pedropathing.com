@@ -3,38 +3,38 @@
   <groupId>com.pedropathing</groupId>
   <artifactId>ftc</artifactId>
   <versioning>
-    <lastUpdated>20250806212811</lastUpdated>
+    <lastUpdated>20250807210549</lastUpdated>
     <snapshot>
-      <timestamp>20250806.212811</timestamp>
-      <buildNumber>10</buildNumber>
+      <timestamp>20250807.210549</timestamp>
+      <buildNumber>11</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <extension>pom</extension>
-        <value>1.1.0-20250806.212811-10</value>
-        <updated>20250806212811</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>aar</extension>
-        <value>1.1.0-20250806.212811-10</value>
-        <updated>20250806212811</updated>
-      </snapshotVersion>
-      <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>1.1.0-20250806.212811-10</value>
-        <updated>20250806212811</updated>
+        <value>1.1.0-20250807.210549-11</value>
+        <updated>20250807210549</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>1.1.0-20250807.210549-11</value>
+        <updated>20250807210549</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.1.0-20250806.212811-10</value>
-        <updated>20250806212811</updated>
+        <value>1.1.0-20250807.210549-11</value>
+        <updated>20250807210549</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <extension>module</extension>
-        <value>1.1.0-20250806.212811-10</value>
-        <updated>20250806212811</updated>
+        <extension>pom</extension>
+        <value>1.1.0-20250807.210549-11</value>
+        <updated>20250807210549</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>1.1.0-20250807.210549-11</value>
+        <updated>20250807210549</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
