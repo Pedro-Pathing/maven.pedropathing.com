@@ -3,38 +3,38 @@
   <groupId>com.pedropathing</groupId>
   <artifactId>ftc</artifactId>
   <versioning>
-    <lastUpdated>20250807211845</lastUpdated>
+    <lastUpdated>20250807221605</lastUpdated>
     <snapshot>
-      <timestamp>20250807.211845</timestamp>
-      <buildNumber>12</buildNumber>
+      <timestamp>20250807.221605</timestamp>
+      <buildNumber>14</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <extension>pom</extension>
-        <value>1.1.0-20250807.211845-12</value>
-        <updated>20250807211845</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>javadoc</classifier>
-        <extension>jar</extension>
-        <value>1.1.0-20250807.211845-12</value>
-        <updated>20250807211845</updated>
-      </snapshotVersion>
-      <snapshotVersion>
         <extension>module</extension>
-        <value>1.1.0-20250807.211845-12</value>
-        <updated>20250807211845</updated>
+        <value>1.1.0-20250807.221605-14</value>
+        <updated>20250807221605</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <extension>aar</extension>
-        <value>1.1.0-20250807.211845-12</value>
-        <updated>20250807211845</updated>
+        <extension>pom</extension>
+        <value>1.1.0-20250807.221605-14</value>
+        <updated>20250807221605</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.1.0-20250807.211845-12</value>
-        <updated>20250807211845</updated>
+        <value>1.1.0-20250807.221605-14</value>
+        <updated>20250807221605</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>1.1.0-20250807.221605-14</value>
+        <updated>20250807221605</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>1.1.0-20250807.221605-14</value>
+        <updated>20250807221605</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
