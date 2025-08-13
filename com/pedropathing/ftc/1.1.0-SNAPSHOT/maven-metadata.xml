@@ -3,38 +3,38 @@
   <groupId>com.pedropathing</groupId>
   <artifactId>ftc</artifactId>
   <versioning>
-    <lastUpdated>20250811173042</lastUpdated>
+    <lastUpdated>20250813012407</lastUpdated>
     <snapshot>
-      <timestamp>20250811.173042</timestamp>
-      <buildNumber>9</buildNumber>
+      <timestamp>20250813.012407</timestamp>
+      <buildNumber>10</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
+        <extension>aar</extension>
+        <value>1.1.0-20250813.012407-10</value>
+        <updated>20250813012407</updated>
+      </snapshotVersion>
+      <snapshotVersion>
         <extension>pom</extension>
-        <value>1.1.0-20250811.173042-9</value>
-        <updated>20250811173042</updated>
+        <value>1.1.0-20250813.012407-10</value>
+        <updated>20250813012407</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>module</extension>
-        <value>1.1.0-20250811.173042-9</value>
-        <updated>20250811173042</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>aar</extension>
-        <value>1.1.0-20250811.173042-9</value>
-        <updated>20250811173042</updated>
+        <value>1.1.0-20250813.012407-10</value>
+        <updated>20250813012407</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.1.0-20250811.173042-9</value>
-        <updated>20250811173042</updated>
+        <value>1.1.0-20250813.012407-10</value>
+        <updated>20250813012407</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>1.1.0-20250811.173042-9</value>
-        <updated>20250811173042</updated>
+        <value>1.1.0-20250813.012407-10</value>
+        <updated>20250813012407</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
