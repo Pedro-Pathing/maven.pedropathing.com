@@ -3,38 +3,38 @@
   <groupId>com.pedropathing</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <lastUpdated>20250816161439</lastUpdated>
+    <lastUpdated>20250817034838</lastUpdated>
     <snapshot>
-      <timestamp>20250816.161439</timestamp>
-      <buildNumber>15</buildNumber>
+      <timestamp>20250817.034838</timestamp>
+      <buildNumber>17</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <classifier>sources</classifier>
+        <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>1.1.0-20250816.161439-15</value>
-        <updated>20250816161439</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>1.1.0-20250816.161439-15</value>
-        <updated>20250816161439</updated>
+        <value>1.1.0-20250817.034838-17</value>
+        <updated>20250817034838</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.1.0-20250816.161439-15</value>
-        <updated>20250816161439</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>javadoc</classifier>
-        <extension>jar</extension>
-        <value>1.1.0-20250816.161439-15</value>
-        <updated>20250816161439</updated>
+        <value>1.1.0-20250817.034838-17</value>
+        <updated>20250817034838</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>module</extension>
-        <value>1.1.0-20250816.161439-15</value>
-        <updated>20250816161439</updated>
+        <value>1.1.0-20250817.034838-17</value>
+        <updated>20250817034838</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.1.0-20250817.034838-17</value>
+        <updated>20250817034838</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.1.0-20250817.034838-17</value>
+        <updated>20250817034838</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
