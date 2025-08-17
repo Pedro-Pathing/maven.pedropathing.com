@@ -23,8 +23,8 @@
   </developers>
   <dependencies>
     <dependency>
-      <groupId>com.pedropathing</groupId>
-      <artifactId>panels</artifactId>
+      <groupId>com.pedropathing.panels</groupId>
+      <artifactId>core</artifactId>
       <version>0.0.21</version>
       <scope>compile</scope>
     </dependency>

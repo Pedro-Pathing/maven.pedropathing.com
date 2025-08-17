@@ -24,8 +24,8 @@
       },
       "dependencies": [
         {
-          "group": "com.pedropathing",
-          "module": "panels",
+          "group": "com.pedropathing.panels",
+          "module": "core",
           "version": {
             "requires": "0.0.21"
           }
@@ -144,8 +144,8 @@
       },
       "dependencies": [
         {
-          "group": "com.pedropathing",
-          "module": "panels",
+          "group": "com.pedropathing.panels",
+          "module": "core",
           "version": {
             "requires": "0.0.21"
           }
