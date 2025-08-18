@@ -3,38 +3,38 @@
   <groupId>com.pedropathing</groupId>
   <artifactId>ftc</artifactId>
   <versioning>
-    <lastUpdated>20250818013840</lastUpdated>
+    <lastUpdated>20250818042856</lastUpdated>
     <snapshot>
-      <timestamp>20250818.013840</timestamp>
-      <buildNumber>16</buildNumber>
+      <timestamp>20250818.042856</timestamp>
+      <buildNumber>17</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <classifier>javadoc</classifier>
+        <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.1.0-20250818.013840-16</value>
-        <updated>20250818013840</updated>
+        <value>1.1.0-20250818.042856-17</value>
+        <updated>20250818042856</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>module</extension>
-        <value>1.1.0-20250818.013840-16</value>
-        <updated>20250818013840</updated>
+        <value>1.1.0-20250818.042856-17</value>
+        <updated>20250818042856</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>1.1.0-20250818.042856-17</value>
+        <updated>20250818042856</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>aar</extension>
-        <value>1.1.0-20250818.013840-16</value>
-        <updated>20250818013840</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>sources</classifier>
-        <extension>jar</extension>
-        <value>1.1.0-20250818.013840-16</value>
-        <updated>20250818013840</updated>
+        <value>1.1.0-20250818.042856-17</value>
+        <updated>20250818042856</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.1.0-20250818.013840-16</value>
-        <updated>20250818013840</updated>
+        <value>1.1.0-20250818.042856-17</value>
+        <updated>20250818042856</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
