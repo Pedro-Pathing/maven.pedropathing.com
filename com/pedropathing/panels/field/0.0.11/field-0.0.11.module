@@ -35,11 +35,11 @@
         {
           "name": "field-0.0.11.aar",
           "url": "field-0.0.11.aar",
-          "size": 1103644,
-          "sha512": "3ccaeea9f2236076e24da2d98ee724e5698d3d9400b4bab4d226175652f3dbbe90b8ea8129ae5560c2d3513535bcdb28092dbb92e4ae1b274c9731b0732a681f",
-          "sha256": "63d48f81537f5732f47da068fbb7a8b1c76dc221a2df82e83cdd511bc33abdf0",
-          "sha1": "e396bfe23ff8c1b5abcbebf7970b6b4fcce6b60d",
-          "md5": "9a3b4e5986c6225fc179ebbc8842f06f"
+          "size": 1103628,
+          "sha512": "4d5f15375d0f48fecc2ed572d3a6269f7d15ce810e2e62e0167d22f884e0fdc9262dcc00f99ba6e8ad98d030bc0b919c5f2c16d6f1393ad2b34230369a80ff99",
+          "sha256": "1f33d61a9d0bf79a13c3e84a2398b3b4c1476b2f34402b2e79cedf655a7684ab",
+          "sha1": "ac5ce17c4834df16a4c111b5eec40104d75208f5",
+          "md5": "106fb4db8a7c31d9a12c773f245a5ae6"
         }
       ]
     },
@@ -64,11 +64,11 @@
         {
           "name": "field-0.0.11.aar",
           "url": "field-0.0.11.aar",
-          "size": 1103644,
-          "sha512": "3ccaeea9f2236076e24da2d98ee724e5698d3d9400b4bab4d226175652f3dbbe90b8ea8129ae5560c2d3513535bcdb28092dbb92e4ae1b274c9731b0732a681f",
-          "sha256": "63d48f81537f5732f47da068fbb7a8b1c76dc221a2df82e83cdd511bc33abdf0",
-          "sha1": "e396bfe23ff8c1b5abcbebf7970b6b4fcce6b60d",
-          "md5": "9a3b4e5986c6225fc179ebbc8842f06f"
+          "size": 1103628,
+          "sha512": "4d5f15375d0f48fecc2ed572d3a6269f7d15ce810e2e62e0167d22f884e0fdc9262dcc00f99ba6e8ad98d030bc0b919c5f2c16d6f1393ad2b34230369a80ff99",
+          "sha256": "1f33d61a9d0bf79a13c3e84a2398b3b4c1476b2f34402b2e79cedf655a7684ab",
+          "sha1": "ac5ce17c4834df16a4c111b5eec40104d75208f5",
+          "md5": "106fb4db8a7c31d9a12c773f245a5ae6"
         }
       ]
     }

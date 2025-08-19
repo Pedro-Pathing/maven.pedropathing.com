@@ -35,11 +35,11 @@
         {
           "name": "limelightproxy-0.0.10.aar",
           "url": "limelightproxy-0.0.10.aar",
-          "size": 494561,
-          "sha512": "646eb847cc8d5f8f300f8550633a928610e43f021d830816afd1dfde7d25ad9113727a1d89682e2eb9e8b4161e71c96519e0dc3b09ebfde8f0dfb31abac4b22f",
-          "sha256": "d74dd388e9c6c56c1840bc5af3bc719ba1fcd391bf69c68a873ad685e0ce1128",
-          "sha1": "fce5ffb54af87ed2900129d7a98ed8afa9081041",
-          "md5": "6405f39268a4a6d49b52484d5ea0bd58"
+          "size": 494545,
+          "sha512": "3cf998181660b1ee25ef4bf4d5a1fc1db708830400ae9b3b43ad6ca034332009d435052373cc003eb252136200774be2ab07d64406e0e012392b4ad1b9e9ead7",
+          "sha256": "f01bbac26d1fc400e191a93acd45828198335da023962ed2ffad292aabc39e09",
+          "sha1": "fe481368eb7b0a50005f8df347c46485268f451a",
+          "md5": "5824bf9abb16bbdec761fc56f2564ddd"
         }
       ]
     },
@@ -71,11 +71,11 @@
         {
           "name": "limelightproxy-0.0.10.aar",
           "url": "limelightproxy-0.0.10.aar",
-          "size": 494561,
-          "sha512": "646eb847cc8d5f8f300f8550633a928610e43f021d830816afd1dfde7d25ad9113727a1d89682e2eb9e8b4161e71c96519e0dc3b09ebfde8f0dfb31abac4b22f",
-          "sha256": "d74dd388e9c6c56c1840bc5af3bc719ba1fcd391bf69c68a873ad685e0ce1128",
-          "sha1": "fce5ffb54af87ed2900129d7a98ed8afa9081041",
-          "md5": "6405f39268a4a6d49b52484d5ea0bd58"
+          "size": 494545,
+          "sha512": "3cf998181660b1ee25ef4bf4d5a1fc1db708830400ae9b3b43ad6ca034332009d435052373cc003eb252136200774be2ab07d64406e0e012392b4ad1b9e9ead7",
+          "sha256": "f01bbac26d1fc400e191a93acd45828198335da023962ed2ffad292aabc39e09",
+          "sha1": "fe481368eb7b0a50005f8df347c46485268f451a",
+          "md5": "5824bf9abb16bbdec761fc56f2564ddd"
         }
       ]
     }

@@ -83,7 +83,7 @@
           "group": "com.pedropathing.panels",
           "module": "field",
           "version": {
-            "requires": "0.0.12"
+            "requires": "0.0.11"
           }
         },
         {
@@ -126,11 +126,11 @@
         {
           "name": "fullpanels-0.0.40.aar",
           "url": "fullpanels-0.0.40.aar",
-          "size": 260582,
-          "sha512": "cfee00079bcc0c46fb61b733b2861e06fa4eb99280140b85656554c54cb92dc10142b544885c96b14372c22f06462063a1bc15f7cd833048467e86c0a1c3558a",
-          "sha256": "c611efdb349a9afed8dcbeda3f4b7154f975aeedb1d7ac0ac1bd467a956dcd42",
-          "sha1": "f4dba0789fc1978ccfd61d4676614e4d4b1bcc61",
-          "md5": "2af3e0902b8e0fd0a2cb006a53b4f4c6"
+          "size": 260566,
+          "sha512": "6491bc7e01617a90138b1fb2ff3ad7aa133367a3eeca8958f4db504acdf361590f61d54d862bb0f8a1572689cf6b2e3b9e2824711a57095b573e8f65dd6a958f",
+          "sha256": "f94e507c0d87d1704e30d362b7854608d709d82c4e82fca884d890fb1d2d9517",
+          "sha1": "e5b7a9c26c114a08ca5d952ab214a01bc781ada1",
+          "md5": "9cce5a6ceb9bf68cafcbb7e00738ffd6"
         }
       ]
     },
@@ -203,7 +203,7 @@
           "group": "com.pedropathing.panels",
           "module": "field",
           "version": {
-            "requires": "0.0.12"
+            "requires": "0.0.11"
           }
         },
         {
@@ -246,11 +246,11 @@
         {
           "name": "fullpanels-0.0.40.aar",
           "url": "fullpanels-0.0.40.aar",
-          "size": 260582,
-          "sha512": "cfee00079bcc0c46fb61b733b2861e06fa4eb99280140b85656554c54cb92dc10142b544885c96b14372c22f06462063a1bc15f7cd833048467e86c0a1c3558a",
-          "sha256": "c611efdb349a9afed8dcbeda3f4b7154f975aeedb1d7ac0ac1bd467a956dcd42",
-          "sha1": "f4dba0789fc1978ccfd61d4676614e4d4b1bcc61",
-          "md5": "2af3e0902b8e0fd0a2cb006a53b4f4c6"
+          "size": 260566,
+          "sha512": "6491bc7e01617a90138b1fb2ff3ad7aa133367a3eeca8958f4db504acdf361590f61d54d862bb0f8a1572689cf6b2e3b9e2824711a57095b573e8f65dd6a958f",
+          "sha256": "f94e507c0d87d1704e30d362b7854608d709d82c4e82fca884d890fb1d2d9517",
+          "sha1": "e5b7a9c26c114a08ca5d952ab214a01bc781ada1",
+          "md5": "9cce5a6ceb9bf68cafcbb7e00738ffd6"
         }
       ]
     }

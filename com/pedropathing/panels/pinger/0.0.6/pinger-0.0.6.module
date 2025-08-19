@@ -35,11 +35,11 @@
         {
           "name": "pinger-0.0.6.aar",
           "url": "pinger-0.0.6.aar",
-          "size": 257402,
-          "sha512": "f6283b3548dc7be3e0f0fc6f4b31cc551c74951464a9dd7aad4252668760ef89a3b19bb1763a653efdaf96bc7242ff234206a6d824534038973ff540643c920d",
-          "sha256": "ba32e626c28e72e8752e166551f195dbea3bca4d32008a6b78cff0deb93ba708",
-          "sha1": "d2ff4827004858f793ba2add7add870c9aa50ec8",
-          "md5": "8502bd0c5094345301659fa91f6599f6"
+          "size": 257386,
+          "sha512": "500d5f08206fdf907e76952feacf38e591ab049fb334203003c7c33c836dbaf1c05f4467977c80db375959b91e6fa97b04bdf84fe6a14b0def51bfb810826857",
+          "sha256": "e288ad8b06ac879217b101827a57dce8aa4b397f64e8d81b3669ea15a325cb7b",
+          "sha1": "93dd97cc2023c57b03cba3563acedd941b0ff0b7",
+          "md5": "087367c8574de5e011614a08d5a6a411"
         }
       ]
     },
@@ -64,11 +64,11 @@
         {
           "name": "pinger-0.0.6.aar",
           "url": "pinger-0.0.6.aar",
-          "size": 257402,
-          "sha512": "f6283b3548dc7be3e0f0fc6f4b31cc551c74951464a9dd7aad4252668760ef89a3b19bb1763a653efdaf96bc7242ff234206a6d824534038973ff540643c920d",
-          "sha256": "ba32e626c28e72e8752e166551f195dbea3bca4d32008a6b78cff0deb93ba708",
-          "sha1": "d2ff4827004858f793ba2add7add870c9aa50ec8",
-          "md5": "8502bd0c5094345301659fa91f6599f6"
+          "size": 257386,
+          "sha512": "500d5f08206fdf907e76952feacf38e591ab049fb334203003c7c33c836dbaf1c05f4467977c80db375959b91e6fa97b04bdf84fe6a14b0def51bfb810826857",
+          "sha256": "e288ad8b06ac879217b101827a57dce8aa4b397f64e8d81b3669ea15a325cb7b",
+          "sha1": "93dd97cc2023c57b03cba3563acedd941b0ff0b7",
+          "md5": "087367c8574de5e011614a08d5a6a411"
         }
       ]
     }

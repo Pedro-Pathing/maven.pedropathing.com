@@ -73,7 +73,7 @@
     <dependency>
       <groupId>com.pedropathing.panels</groupId>
       <artifactId>field</artifactId>
-      <version>0.0.12</version>
+      <version>0.0.11</version>
       <scope>compile</scope>
     </dependency>
     <dependency>

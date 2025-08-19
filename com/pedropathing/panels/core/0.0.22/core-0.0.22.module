@@ -35,11 +35,11 @@
         {
           "name": "core-0.0.22.aar",
           "url": "core-0.0.22.aar",
-          "size": 744457,
-          "sha512": "38cf90fe648a13aa954f8d51332e4024ae21738ab3d3e4bd7ba33af40befdc252d34b401059ec979d7490ecf98dac4684ec33388a24a85145e4a5e2308787c6c",
-          "sha256": "d31da6488a67c46ac1e0ad7591f81e9e28a17a3e04daab9ae7ae61c757b65a7f",
-          "sha1": "4b88d7ce8ea21d4372c328b8c01096cfa664cd57",
-          "md5": "c41186dc11b4b9e51ff0148f84078095"
+          "size": 744446,
+          "sha512": "a01ccdcd18d898f86af745ead903d28c358361c1a02a0b4a8985ee7e3823a6d23d6ab222f4eb745e69c0cb0f827b29f6fd4a2341918e41a4046d977faad866ac",
+          "sha256": "f6263d6c8e604bb3ab73ab3df2d75d24f0a4ce38102b7bbe0e15ce1330b78a3f",
+          "sha1": "1ea75ab24b3ef078c90d2077219d272b748bae28",
+          "md5": "019250729db9d07872e805cbabd61a9a"
         }
       ]
     },
@@ -56,7 +56,7 @@
           "group": "androidx.core",
           "module": "core-ktx",
           "version": {
-            "requires": "1.15.0"
+            "requires": "1.7.0"
           }
         },
         {
@@ -112,11 +112,11 @@
         {
           "name": "core-0.0.22.aar",
           "url": "core-0.0.22.aar",
-          "size": 744457,
-          "sha512": "38cf90fe648a13aa954f8d51332e4024ae21738ab3d3e4bd7ba33af40befdc252d34b401059ec979d7490ecf98dac4684ec33388a24a85145e4a5e2308787c6c",
-          "sha256": "d31da6488a67c46ac1e0ad7591f81e9e28a17a3e04daab9ae7ae61c757b65a7f",
-          "sha1": "4b88d7ce8ea21d4372c328b8c01096cfa664cd57",
-          "md5": "c41186dc11b4b9e51ff0148f84078095"
+          "size": 744446,
+          "sha512": "a01ccdcd18d898f86af745ead903d28c358361c1a02a0b4a8985ee7e3823a6d23d6ab222f4eb745e69c0cb0f827b29f6fd4a2341918e41a4046d977faad866ac",
+          "sha256": "f6263d6c8e604bb3ab73ab3df2d75d24f0a4ce38102b7bbe0e15ce1330b78a3f",
+          "sha1": "1ea75ab24b3ef078c90d2077219d272b748bae28",
+          "md5": "019250729db9d07872e805cbabd61a9a"
         }
       ]
     }

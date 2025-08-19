@@ -35,11 +35,11 @@
         {
           "name": "gamepad-0.0.13.aar",
           "url": "gamepad-0.0.13.aar",
-          "size": 8844646,
-          "sha512": "478888f7033506ebbd94f90934382d4feaaa03d3145eb88d4579f11f6dbed88fa0d646a597ea5af376ff7ff7790482875ada4d75d0874922534e2931eb5807f5",
-          "sha256": "f0a247899d9f089eabb8f60e4d057c19728d0ef31479774208e3fdbdc9f61064",
-          "sha1": "cb5828803badc7296ca6807e8722e7999537fea7",
-          "md5": "05b7c1e8c135db381bdf452efe12895f"
+          "size": 8844630,
+          "sha512": "3e70a580b5536084ea199a1b262c669c0189dab06dd3ae83f53b82fb1391206f77560080401dc3817830ae6bb985cf680d5dd6d7cf60a362cb6851435f50366e",
+          "sha256": "7ce0850f0233cbab6d3722caedbacb7f26ed26fad1104924875cf9864462999d",
+          "sha1": "0f5aaf12955b79e531f919602d9ef3cf6353ae98",
+          "md5": "8071396f459ff5ef02aa16389635a80a"
         }
       ]
     },
@@ -64,11 +64,11 @@
         {
           "name": "gamepad-0.0.13.aar",
           "url": "gamepad-0.0.13.aar",
-          "size": 8844646,
-          "sha512": "478888f7033506ebbd94f90934382d4feaaa03d3145eb88d4579f11f6dbed88fa0d646a597ea5af376ff7ff7790482875ada4d75d0874922534e2931eb5807f5",
-          "sha256": "f0a247899d9f089eabb8f60e4d057c19728d0ef31479774208e3fdbdc9f61064",
-          "sha1": "cb5828803badc7296ca6807e8722e7999537fea7",
-          "md5": "05b7c1e8c135db381bdf452efe12895f"
+          "size": 8844630,
+          "sha512": "3e70a580b5536084ea199a1b262c669c0189dab06dd3ae83f53b82fb1391206f77560080401dc3817830ae6bb985cf680d5dd6d7cf60a362cb6851435f50366e",
+          "sha256": "7ce0850f0233cbab6d3722caedbacb7f26ed26fad1104924875cf9864462999d",
+          "sha1": "0f5aaf12955b79e531f919602d9ef3cf6353ae98",
+          "md5": "8071396f459ff5ef02aa16389635a80a"
         }
       ]
     }
