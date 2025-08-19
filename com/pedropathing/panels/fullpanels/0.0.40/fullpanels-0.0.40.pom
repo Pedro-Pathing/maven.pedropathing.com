@@ -25,7 +25,7 @@
     <dependency>
       <groupId>com.pedropathing.panels</groupId>
       <artifactId>core</artifactId>
-      <version>0.0.21</version>
+      <version>0.0.22</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -73,7 +73,7 @@
     <dependency>
       <groupId>com.pedropathing.panels</groupId>
       <artifactId>field</artifactId>
-      <version>0.0.11</version>
+      <version>0.0.12</version>
       <scope>compile</scope>
     </dependency>
     <dependency>

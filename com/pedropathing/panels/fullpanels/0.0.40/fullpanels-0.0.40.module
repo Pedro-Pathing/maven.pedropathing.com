@@ -27,7 +27,7 @@
           "group": "com.pedropathing.panels",
           "module": "core",
           "version": {
-            "requires": "0.0.21"
+            "requires": "0.0.22"
           }
         },
         {
@@ -83,7 +83,7 @@
           "group": "com.pedropathing.panels",
           "module": "field",
           "version": {
-            "requires": "0.0.11"
+            "requires": "0.0.12"
           }
         },
         {
@@ -147,7 +147,7 @@
           "group": "com.pedropathing.panels",
           "module": "core",
           "version": {
-            "requires": "0.0.21"
+            "requires": "0.0.22"
           }
         },
         {
@@ -203,7 +203,7 @@
           "group": "com.pedropathing.panels",
           "module": "field",
           "version": {
-            "requires": "0.0.11"
+            "requires": "0.0.12"
           }
         },
         {
