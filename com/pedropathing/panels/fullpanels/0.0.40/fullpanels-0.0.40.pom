@@ -37,13 +37,13 @@
     <dependency>
       <groupId>com.pedropathing.panels</groupId>
       <artifactId>telemetry</artifactId>
-      <version>0.0.8</version>
+      <version>0.0.9</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.pedropathing.panels</groupId>
       <artifactId>configurables</artifactId>
-      <version>0.0.14</version>
+      <version>0.0.15</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -73,7 +73,7 @@
     <dependency>
       <groupId>com.pedropathing.panels</groupId>
       <artifactId>field</artifactId>
-      <version>0.0.13</version>
+      <version>0.0.11</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -91,7 +91,7 @@
     <dependency>
       <groupId>com.pedropathing.panels</groupId>
       <artifactId>utils</artifactId>
-      <version>0.0.10</version>
+      <version>0.0.11</version>
       <scope>compile</scope>
     </dependency>
     <dependency>

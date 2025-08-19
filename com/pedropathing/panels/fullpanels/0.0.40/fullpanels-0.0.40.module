@@ -41,14 +41,14 @@
           "group": "com.pedropathing.panels",
           "module": "telemetry",
           "version": {
-            "requires": "0.0.8"
+            "requires": "0.0.9"
           }
         },
         {
           "group": "com.pedropathing.panels",
           "module": "configurables",
           "version": {
-            "requires": "0.0.14"
+            "requires": "0.0.15"
           }
         },
         {
@@ -83,7 +83,7 @@
           "group": "com.pedropathing.panels",
           "module": "field",
           "version": {
-            "requires": "0.0.13"
+            "requires": "0.0.11"
           }
         },
         {
@@ -104,7 +104,7 @@
           "group": "com.pedropathing.panels",
           "module": "utils",
           "version": {
-            "requires": "0.0.10"
+            "requires": "0.0.11"
           }
         },
         {
@@ -161,14 +161,14 @@
           "group": "com.pedropathing.panels",
           "module": "telemetry",
           "version": {
-            "requires": "0.0.8"
+            "requires": "0.0.9"
           }
         },
         {
           "group": "com.pedropathing.panels",
           "module": "configurables",
           "version": {
-            "requires": "0.0.14"
+            "requires": "0.0.15"
           }
         },
         {
@@ -203,7 +203,7 @@
           "group": "com.pedropathing.panels",
           "module": "field",
           "version": {
-            "requires": "0.0.13"
+            "requires": "0.0.11"
           }
         },
         {
@@ -224,7 +224,7 @@
           "group": "com.pedropathing.panels",
           "module": "utils",
           "version": {
-            "requires": "0.0.10"
+            "requires": "0.0.11"
           }
         },
         {
