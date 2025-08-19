@@ -35,11 +35,11 @@
         {
           "name": "ftc-1.1.0-SNAPSHOTT.aar",
           "url": "ftc-1.1.0-SNAPSHOTT.aar",
-          "size": 37761,
-          "sha512": "ee243c1a6c76c78625a98c929dc0a6d0f7e2806bc63246e2e3fabbaae1c6bcea745eace1a035f9d0c42b3ee15820524b4e89f792b92cdd08624f642aabe27380",
-          "sha256": "9f6439e872d85d165181f1b30250e6f32a0119465c0d2044428c9533c16d153b",
-          "sha1": "747356ce199655887ad1822f582d2650c3c4f662",
-          "md5": "088ad04ccbf3bad12d0be54795b06644"
+          "size": 37729,
+          "sha512": "5053f859ca1c4acdd335f49467c1cdd3d3bb8cc69f1ea6e32d16a777b041437ba6c7f29acc7d2f49c28c051e8ddb06d9cf03153b68dc79553a1dd1e44d1ae22a",
+          "sha256": "cda8bd84d97c3c8e87a93f786907f5718be614ed94f5af47953f7d8b498d98b1",
+          "sha1": "3db199dce56442a8123bd17b69ee4dbbfa1837db",
+          "md5": "d851d98f815de9891f4d0ce69b3ca268"
         }
       ]
     },
@@ -64,11 +64,11 @@
         {
           "name": "ftc-1.1.0-SNAPSHOTT.aar",
           "url": "ftc-1.1.0-SNAPSHOTT.aar",
-          "size": 37761,
-          "sha512": "ee243c1a6c76c78625a98c929dc0a6d0f7e2806bc63246e2e3fabbaae1c6bcea745eace1a035f9d0c42b3ee15820524b4e89f792b92cdd08624f642aabe27380",
-          "sha256": "9f6439e872d85d165181f1b30250e6f32a0119465c0d2044428c9533c16d153b",
-          "sha1": "747356ce199655887ad1822f582d2650c3c4f662",
-          "md5": "088ad04ccbf3bad12d0be54795b06644"
+          "size": 37729,
+          "sha512": "5053f859ca1c4acdd335f49467c1cdd3d3bb8cc69f1ea6e32d16a777b041437ba6c7f29acc7d2f49c28c051e8ddb06d9cf03153b68dc79553a1dd1e44d1ae22a",
+          "sha256": "cda8bd84d97c3c8e87a93f786907f5718be614ed94f5af47953f7d8b498d98b1",
+          "sha1": "3db199dce56442a8123bd17b69ee4dbbfa1837db",
+          "md5": "d851d98f815de9891f4d0ce69b3ca268"
         }
       ]
     },
