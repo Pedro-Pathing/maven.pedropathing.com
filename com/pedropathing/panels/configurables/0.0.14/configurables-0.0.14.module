@@ -35,11 +35,11 @@
         {
           "name": "configurables-0.0.14.aar",
           "url": "configurables-0.0.14.aar",
-          "size": 927679,
-          "sha512": "080e39d06494c0883b08ec00ed274a88c7fc46568db371b29e9e7bd8a5692ebbf362bc9b483d00452cb780c17ffa1cd23e3fe5b6fbb52e82789a81df5d7f9266",
-          "sha256": "06d045e750861adc7121af403a4c898e0615bcc5fe9a63753f85f09b19bd1398",
-          "sha1": "5e1f08bb700f65bbda3cd27f474759c28cd48f62",
-          "md5": "cd363c857cf4c383de91415449ccec50"
+          "size": 927008,
+          "sha512": "769a6835d2007091a3ee0ef55389021f0d539a1cd3c1c72d1ff3feb2b97f6402b949df5becb07943a9cbeb83779a80e48d3eae069c0ac69e9f7b139cb7fe999b",
+          "sha256": "2557db33ca6ea345c3c417a19d27bcfaf0bfd7f01a653f646c9efbdbca70072b",
+          "sha1": "0337c6afee03e31a89b1780357f17ac45040057c",
+          "md5": "4faa60571065e9f93923fe765d652f8e"
         }
       ]
     },
@@ -64,11 +64,11 @@
         {
           "name": "configurables-0.0.14.aar",
           "url": "configurables-0.0.14.aar",
-          "size": 927679,
-          "sha512": "080e39d06494c0883b08ec00ed274a88c7fc46568db371b29e9e7bd8a5692ebbf362bc9b483d00452cb780c17ffa1cd23e3fe5b6fbb52e82789a81df5d7f9266",
-          "sha256": "06d045e750861adc7121af403a4c898e0615bcc5fe9a63753f85f09b19bd1398",
-          "sha1": "5e1f08bb700f65bbda3cd27f474759c28cd48f62",
-          "md5": "cd363c857cf4c383de91415449ccec50"
+          "size": 927008,
+          "sha512": "769a6835d2007091a3ee0ef55389021f0d539a1cd3c1c72d1ff3feb2b97f6402b949df5becb07943a9cbeb83779a80e48d3eae069c0ac69e9f7b139cb7fe999b",
+          "sha256": "2557db33ca6ea345c3c417a19d27bcfaf0bfd7f01a653f646c9efbdbca70072b",
+          "sha1": "0337c6afee03e31a89b1780357f17ac45040057c",
+          "md5": "4faa60571065e9f93923fe765d652f8e"
         }
       ]
     }

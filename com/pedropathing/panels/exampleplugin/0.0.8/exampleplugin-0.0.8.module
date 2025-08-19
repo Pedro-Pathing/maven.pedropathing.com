@@ -35,11 +35,11 @@
         {
           "name": "exampleplugin-0.0.8.aar",
           "url": "exampleplugin-0.0.8.aar",
-          "size": 56022,
-          "sha512": "39595a61e8fad90e9abc4c4ec5b41f620d3fcbc45020eeaac42ac4c0f3c90a4ec1c205eae4e9871327e2d5f81f45ff692e3f4d22e2f1446151b1757d664e371e",
-          "sha256": "e6f0904b667e709eab5a6abab2c383c0cfaef97c0e9666df8788c814ed8459ce",
-          "sha1": "47588cf3f72827eca2837fc43b4912ff79850237",
-          "md5": "7481aad2ab9c68dd6b11f3fa002bc520"
+          "size": 55351,
+          "sha512": "be51090b439713af0b3eabbd40cf699924a8af308ffe7497e35dd93b315f9817d7d6c94e1a025ed2abd300b03a6b9b17815762d9386c4b2f953ea73bb33e9fe1",
+          "sha256": "7bdf8d61761de44ba8841be4347f1e078671755c2572245deab9052cd463c4c4",
+          "sha1": "ff1a184151128893aad946692aaa6100bebec8f9",
+          "md5": "eec6ba0f1003d81af2a3856274621555"
         }
       ]
     },
@@ -64,11 +64,11 @@
         {
           "name": "exampleplugin-0.0.8.aar",
           "url": "exampleplugin-0.0.8.aar",
-          "size": 56022,
-          "sha512": "39595a61e8fad90e9abc4c4ec5b41f620d3fcbc45020eeaac42ac4c0f3c90a4ec1c205eae4e9871327e2d5f81f45ff692e3f4d22e2f1446151b1757d664e371e",
-          "sha256": "e6f0904b667e709eab5a6abab2c383c0cfaef97c0e9666df8788c814ed8459ce",
-          "sha1": "47588cf3f72827eca2837fc43b4912ff79850237",
-          "md5": "7481aad2ab9c68dd6b11f3fa002bc520"
+          "size": 55351,
+          "sha512": "be51090b439713af0b3eabbd40cf699924a8af308ffe7497e35dd93b315f9817d7d6c94e1a025ed2abd300b03a6b9b17815762d9386c4b2f953ea73bb33e9fe1",
+          "sha256": "7bdf8d61761de44ba8841be4347f1e078671755c2572245deab9052cd463c4c4",
+          "sha1": "ff1a184151128893aad946692aaa6100bebec8f9",
+          "md5": "eec6ba0f1003d81af2a3856274621555"
         }
       ]
     }
