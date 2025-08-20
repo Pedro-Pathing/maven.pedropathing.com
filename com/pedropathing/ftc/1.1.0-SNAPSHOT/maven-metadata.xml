@@ -3,38 +3,38 @@
   <groupId>com.pedropathing</groupId>
   <artifactId>ftc</artifactId>
   <versioning>
-    <lastUpdated>20250820025744</lastUpdated>
+    <lastUpdated>20250820154030</lastUpdated>
     <snapshot>
-      <timestamp>20250820.025744</timestamp>
-      <buildNumber>22</buildNumber>
+      <timestamp>20250820.154030</timestamp>
+      <buildNumber>23</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <classifier>javadoc</classifier>
-        <extension>jar</extension>
-        <value>1.1.0-20250820.025744-22</value>
-        <updated>20250820025744</updated>
-      </snapshotVersion>
-      <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.1.0-20250820.025744-22</value>
-        <updated>20250820025744</updated>
+        <value>1.1.0-20250820.154030-23</value>
+        <updated>20250820154030</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <extension>module</extension>
-        <value>1.1.0-20250820.025744-22</value>
-        <updated>20250820025744</updated>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>1.1.0-20250820.154030-23</value>
+        <updated>20250820154030</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.1.0-20250820.025744-22</value>
-        <updated>20250820025744</updated>
+        <value>1.1.0-20250820.154030-23</value>
+        <updated>20250820154030</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>aar</extension>
-        <value>1.1.0-20250820.025744-22</value>
-        <updated>20250820025744</updated>
+        <value>1.1.0-20250820.154030-23</value>
+        <updated>20250820154030</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>1.1.0-20250820.154030-23</value>
+        <updated>20250820154030</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
