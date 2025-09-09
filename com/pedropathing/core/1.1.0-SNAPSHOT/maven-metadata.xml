@@ -3,38 +3,38 @@
   <groupId>com.pedropathing</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <lastUpdated>20250829034826</lastUpdated>
+    <lastUpdated>20250909031346</lastUpdated>
     <snapshot>
-      <timestamp>20250829.034826</timestamp>
-      <buildNumber>34</buildNumber>
+      <timestamp>20250909.031346</timestamp>
+      <buildNumber>35</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.1.0-20250909.031346-35</value>
+        <updated>20250909031346</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.1.0-20250909.031346-35</value>
+        <updated>20250909031346</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>1.1.0-20250909.031346-35</value>
+        <updated>20250909031346</updated>
+      </snapshotVersion>
+      <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.1.0-20250829.034826-34</value>
-        <updated>20250829034826</updated>
+        <value>1.1.0-20250909.031346-35</value>
+        <updated>20250909031346</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>1.1.0-20250829.034826-34</value>
-        <updated>20250829034826</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>module</extension>
-        <value>1.1.0-20250829.034826-34</value>
-        <updated>20250829034826</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>pom</extension>
-        <value>1.1.0-20250829.034826-34</value>
-        <updated>20250829034826</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>1.1.0-20250829.034826-34</value>
-        <updated>20250829034826</updated>
+        <value>1.1.0-20250909.031346-35</value>
+        <updated>20250909031346</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
